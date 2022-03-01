@@ -1,0 +1,386 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Wiltshire wedding betwixt Daniel Doo-well, and Doll the dairy-maid. With the consent of her old father Leather-Coat, and her dear and tender mother Plod-wed. To an excellent north-country tune. Licensed according to order.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1684-1695?</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 5 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B06651</idno>
+            <idno type="STC">Wing W2960</idno>
+            <idno type="STC">Interim Tract Supplement Guide EBB65H[110]</idno>
+            <idno type="EEBO-CITATION">99887147</idno>
+            <idno type="PROQUEST">ocm99887147</idno>
+            <idno type="VID">181860</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B06651)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 181860)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; A2:3[110])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Wiltshire wedding betwixt Daniel Doo-well, and Doll the dairy-maid. With the consent of her old father Leather-Coat, and her dear and tender mother Plod-wed. To an excellent north-country tune. Licensed according to order.</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.) : ill. (woodcuts).  </extent>
+               <publicationStmt>
+                  <publisher>Printed for J[onah]. Deacon, at the Angel in Guilt-spur-street.,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>[between 1684-1695]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Verse: "All in the misty morning ..."</note>
+                  <note>Place, date of publication, and publisher's name from Wing.</note>
+                  <note>Reproduction of original in the Harvard University, Houghton Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Broadsides --  England --  London --  Early works to 1800.</term>
+               <term>Weddings in literature --  Early works to 1800.</term>
+               <term>Marriage --  Early works to 1800.</term>
+               <term>Ballads --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2008-04</date>
+            <label>Emma (Leeson) Huber</label>Sampled and proofread</change>
+         <change>
+            <date>2008-10</date>
+            <label>SPi Global</label>Rekeyed and resubmitted</change>
+         <change>
+            <date>2009-08</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-08</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="ballad">
+            <pb facs="tcp:181860:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 10 -->
+            <head>The Wiltſhire Wedding BETWIXT <hi>Daniel Doo-well,</hi> and <hi>Doll</hi> the <hi>Dairy-Maid.</hi> With the Conſent of her Old Father <hi>Leather-Coat,</hi> and her dear and tender Mother <hi>Plod-well.</hi>
+            </head>
+            <opener>To an Excellent North-Country Tune.</opener>
+            <argument>
+               <p>Licenſed according to Order.</p>
+            </argument>
+            <p>
+               <figure/>
+            </p>
+            <p>
+               <figure/>
+            </p>
+            <p>
+               <figure/>
+            </p>
+            <lg>
+               <l>ALL in a miſty morning,</l>
+               <l>cloudy was the weather,</l>
+               <l>I meeting with an old Man,</l>
+               <l>was cloathed all in Leather:</l>
+               <l>With ne'r a Shirt unto his back,</l>
+               <l>but Wool unto his skin;</l>
+               <lg type="refrain">
+                  <l>
+                     <hi>With how do you do, and how do you do,</hi>
+                  </l>
+                  <l>
+                     <hi>and how do you do agen?</hi>
+                  </l>
+               </lg>
+            </lg>
+            <lg>
+               <l>The Ruſtick was a Threſher,</l>
+               <l>and on his way he hy'd;</l>
+               <l>And with a Leather Bottle</l>
+               <l>faſt buckled by his ſide:</l>
+               <l>And with a Cap of Woolen,</l>
+               <l>which covered Cheek and Chin,</l>
+               <lg type="refrain">
+                  <l>
+                     <hi>With how, &amp;c.</hi>
+                  </l>
+               </lg>
+            </lg>
+            <lg>
+               <l>I went a little further,</l>
+               <l>and there I met a Maid,</l>
+               <l>Was going then a Milking,</l>
+               <l>a Milking Sir, ſhe ſaid:</l>
+               <l>Then I began to Complement,</l>
+               <l>and ſhe began to ſing;</l>
+               <lg type="refrain">
+                  <l>
+                     <hi>With how, &amp;c.</hi>
+                  </l>
+               </lg>
+            </lg>
+            <lg>
+               <l>This Maid her name was <hi>Dolly,</hi>
+               </l>
+               <l>cloath'd in a Gown of gray,</l>
+               <l>I being ſomewhat jolly,</l>
+               <l>perſwaded her to ſtay:</l>
+               <l>Then ſtraight I fell to Courting her,</l>
+               <l>in hopes her love to <gap reason="illegible: missing" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>in,</l>
+               <lg type="refrain">
+                  <l>
+                     <hi>With how do you do, an<gap reason="illegible: missing" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> 
+                        <gap reason="illegible: missing" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ow do you do;</hi>
+                  </l>
+                  <l>
+                     <hi>and how do you do ag<gap reason="illegible" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>
+                     </hi>
+                  </l>
+               </lg>
+            </lg>
+            <lg>
+               <l>Then having time and leaſure,</l>
+               <l>I ſpent a vacant hour,</l>
+               <l>Telling of all my Treaſure,</l>
+               <l>whilſt ſitting in the Bower:</l>
+               <l>With many kind Embraces,</l>
+               <l>I ſtroak'd her double Chin.</l>
+               <lg type="refrain">
+                  <l>
+                     <hi>With how, &amp;c.</hi>
+                  </l>
+               </lg>
+            </lg>
+            <lg>
+               <l>I told her I would Marry,</l>
+               <l>and ſhe ſhould be my Bride,</l>
+               <l>And long we ſhould not carry,</l>
+               <l>with twenty things beſide:</l>
+               <l>I'le Plow &amp; Sow, &amp; Reap and Mow,</l>
+               <l>while thou ſha<gap reason="illegible: missing" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t ſit and Spin;</l>
+               <lg type="refrain">
+                  <l>
+                     <hi>With how, &amp;c.</hi>
+                  </l>
+               </lg>
+            </lg>
+            <lg>
+               <l>Did you not know my Father,</l>
+               <l>the Damſel then reply'd,</l>
+               <l>His Ierkin was of Leather,</l>
+               <l>a Bottle by his ſide:</l>
+               <l>Yes, I did meet him trudging,</l>
+               <l>as faſt as he could win,</l>
+               <lg type="refrain">
+                  <l>
+                     <hi>With how, &amp;c.</hi>
+                  </l>
+               </lg>
+            </lg>
+            <lg>
+               <l>Kind Sir, I have Mother,</l>
+               <l>beſides a Father ſtill;</l>
+               <l>Thoſe Friends above all other</l>
+               <l>you muſt ask their good will:</l>
+               <l>For if I be undutiful</l>
+               <l>to them, it is a Sin;</l>
+               <lg type="refrain">
+                  <l>
+                     <hi>With how, &amp;c.</hi>
+                  </l>
+               </lg>
+            </lg>
+            <lg>
+               <l>Now there we left the Milk-Pail,</l>
+               <l>and to her Mother went,</l>
+               <l>And when I was come thither,</l>
+               <l>I asking her conſent;</l>
+               <l>And doft my Hat and made a Leg,</l>
+               <l>for why, ſhe was within;</l>
+               <lg type="refrain">
+                  <l>
+                     <hi>With how, &amp;c.</hi>
+                  </l>
+               </lg>
+            </lg>
+            <lg>
+               <l>My Huſband is a Threſher,</l>
+               <l>who is her Father dear.</l>
+               <l>He'll give with her his Bleſſing</l>
+               <l>kind Sir, you need not fear:</l>
+               <l>He is of ſuch good Nature,</l>
+               <l>that he would never lin,</l>
+               <lg type="refrain">
+                  <l>
+                     <hi>With how, &amp;c.</hi>
+                  </l>
+               </lg>
+            </lg>
+            <lg>
+               <l>For by your Courteous Carria<gap reason="illegible: page cropped" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+               </l>
+               <l>you ſeem an honeſt Man,</l>
+               <l>You may have her in Marriag<gap reason="illegible: page cropped" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </l>
+               <l>my husband he anon</l>
+               <l>Will bid you very welcome,</l>
+               <l>though he be poor and thin,</l>
+               <lg type="refrain">
+                  <l>
+                     <hi>With how, &amp;c.</hi>
+                  </l>
+               </lg>
+            </lg>
+            <lg>
+               <l>Her Dad came home full wear<gap reason="illegible: page cropped" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </l>
+               <l>alas! he could not chuſe;</l>
+               <l>Her Mother being Merry,</l>
+               <l>ſhe told him all the News:</l>
+               <l>Then he was mighty jovial to<gap reason="illegible: page cropped" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </l>
+               <l>his Son did ſoon begin,</l>
+               <lg type="refrain">
+                  <l>
+                     <hi>With how, &amp;c.</hi>
+                  </l>
+               </lg>
+            </lg>
+            <lg>
+               <l>Her Parents being willing,</l>
+               <l>all Parties was agreed;</l>
+               <l>Her Portion thirty Shilling,</l>
+               <l>they Marry'd were with ſpee<gap reason="illegible: page cropped" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </l>
+               <l>Then <hi>Will</hi> the Piper he did pla<gap reason="illegible: page cropped" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+               </l>
+               <l>while others Dance and Sin<gap reason="illegible: page cropped" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </l>
+               <lg type="refrain">
+                  <l>
+                     <hi>With how, &amp;c.</hi>
+                  </l>
+               </lg>
+            </lg>
+            <lg>
+               <l>In pleaſant Recreation</l>
+               <l>they paſs'd away the Night</l>
+               <l>And likewiſe by relation,</l>
+               <l>with her he takes delight</l>
+               <l>To walk abroad on Holidays,</l>
+               <l>to viſit Kiff and Kin;</l>
+               <lg type="refrain">
+                  <l>
+                     <hi>With how, &amp;c.</hi>
+                  </l>
+               </lg>
+            </lg>
+            <lg>
+               <l>Then luſty <hi>Ralph</hi> and <hi>Robin,</hi>
+               </l>
+               <l>with many Damſels gay,</l>
+               <l>Did ride on <hi>Roan</hi> and <hi>Dobbin,</hi>
+               </l>
+               <l>to Celebrate the day:</l>
+               <l>When being met together,</l>
+               <l>their Caps they off did fling,</l>
+               <lg type="refrain">
+                  <l>
+                     <hi>With how do you do, and how do</hi>
+                  </l>
+                  <l>
+                     <hi>and how do you do agen?</hi>
+                  </l>
+               </lg>
+            </lg>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>Printed for <hi>I. Deacon,</hi> at the <hi>Angel</hi> in <hi>Guilt-ſpur-ſtreet.</hi>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>
